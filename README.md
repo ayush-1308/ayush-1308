@@ -66,6 +66,11 @@
 
   <img alt="vscode" src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+<h3>Contact me</h3>
+<p><a href="https://github.com/ayush-1308/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/ayush-singh-590a80254/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-1308&show_icons=true" alt="ayush-1308" /></p>
 <!---
 ayush-1308/ayush-1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
