@@ -60,12 +60,6 @@
 
   <img alt="github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-  <img alt="githubactions" src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-  <img alt="adobepremierepro" src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-
-  <img alt="adobephotoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
   <img alt="adobeillustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 
   <img alt="intellijidea" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
