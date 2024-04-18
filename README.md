@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="center" margin="20" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
+<img align="center" padding="20px" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <h3>Languages I know</h3>
 <p>
